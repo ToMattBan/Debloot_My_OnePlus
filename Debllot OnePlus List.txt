@@ -54,12 +54,7 @@ net.oneplus.commonlogtool
 
 com.android.bips
 com.android.captiveportallogin
-com.android.carrierconfig
-com.android.carrierdefaultapp
-com.android.cellbroadcastreceiver
-com.android.cellbroadcastreceiver.overlay.common
 com.android.dreams.basic
-com.android.mms.service
 com.android.printspooler
 com.android.providers.partnerbookmarks
 com.android.statementservice
