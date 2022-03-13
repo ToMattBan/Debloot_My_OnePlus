@@ -1,0 +1,65 @@
+adb shell pm uninstall --user 0 cn.oneplus.nvbackup
+adb shell pm uninstall --user 0 cn.oneplus.photos
+adb shell pm uninstall --user 0 com.android.bips;
+adb shell pm uninstall --user 0 com.android.bookmarkprovider
+adb shell pm uninstall --user 0 com.android.captiveportallogin;
+adb shell pm uninstall --user 0 com.android.chrome
+adb shell pm uninstall --user 0 com.android.dreams.basic;
+adb shell pm uninstall --user 0 com.android.egg
+adb shell pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
+adb shell pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
+
+adb shell pm uninstall --user 0 com.android.printspooler;
+adb shell pm uninstall --user 0 com.android.providers.calendar
+adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks;
+adb shell pm uninstall --user 0 com.android.statementservice;
+adb shell pm uninstall --user 0 com.android.stk
+adb shell pm uninstall --user 0 com.android.vending
+adb shell pm uninstall --user 0 com.android.vpndialogs;
+adb shell pm uninstall --user 0 com.dsi.ant.server;
+adb shell pm uninstall --user 0 com.google.android.apps
+adb shell pm uninstall --user 0 com.google.android.apps.docs
+
+adb shell pm uninstall --user 0 com.google.android.apps.googleassistant
+adb shell pm uninstall --user 0 com.google.android.apps.maps
+adb shell pm uninstall --user 0 com.google.android.apps.messaging
+adb shell pm uninstall --user 0 com.google.android.apps.nbu.files
+adb shell pm uninstall --user 0 com.google.android.apps.photos
+adb shell pm uninstall --user 0 com.google.android.apps.restore
+adb shell pm uninstall --user 0 com.google.android.apps.tachyon
+adb shell pm uninstall --user 0 com.google.android.apps.turbo
+adb shell pm uninstall --user 0 com.google.android.apps.wellbeing
+adb shell pm uninstall --user 0 com.google.android.apps.work.oobconfig
+
+adb shell pm uninstall --user 0 com.google.android.apps.youtube.music
+adb shell pm uninstall --user 0 com.google.android.as
+adb shell pm uninstall --user 0 com.google.android.calendar
+adb shell pm uninstall --user 0 com.google.android.contacts
+adb shell pm uninstall --user 0 com.google.android.dialer
+adb shell pm uninstall --user 0 com.google.android.documentsui
+adb shell pm uninstall --user 0 com.google.android.feedback
+adb shell pm uninstall --user 0 com.google.android.gm
+adb shell pm uninstall --user 0 com.google.android.gms.location.history
+adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
+
+adb shell pm uninstall --user 0 com.google.android.inputmethod.latin
+adb shell pm uninstall --user 0 com.google.android.marvin.talkback
+adb shell pm uninstall --user 0 com.google.android.onetimeinitializer
+adb shell pm uninstall --user 0 com.google.android.partnersetup
+adb shell pm uninstall --user 0 com.google.android.printservice.recommendation
+adb shell pm uninstall --user 0 com.google.android.projection.gearhead
+adb shell pm uninstall --user 0 com.google.android.setupwizard
+adb shell pm uninstall --user 0 com.google.android.syncadapters.contacts;
+adb shell pm uninstall --user 0 com.google.android.tag;
+adb shell pm uninstall --user 0 com.google.android.tts;
+
+adb shell pm uninstall --user 0 com.google.android.videos;
+adb shell pm uninstall --user 0 com.google.android.youtube;
+adb shell pm uninstall --user 0 com.google.ar.core;
+adb shell pm uninstall --user 0 com.netflix.mediaclient;
+adb shell pm uninstall --user 0 com.netflix.partner.activation;
+adb shell pm uninstall --user 0 com.oem.oemlogkit;
+adb shell pm uninstall --user 0 com.oneplus.accessory;
+adb shell pm uninstall --user 0 com.oneplus.account;
+adb shell pm uninstall --user 0 com.oneplus.gallery;
+adb shell pm uninstall --user 0 net.oneplus.commonlogtool;
